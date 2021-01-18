@@ -1,0 +1,5 @@
+C:\VSCode\TryDotNet\HelloWorld\bin\Release\net5.0\publish\HelloWorld.exe
+C:\VSCode\TryDotNet\HelloWorld\bin\Release\net5.0\publish\HelloWorld.dll
+C:\VSCode\TryDotNet\HelloWorld\bin\Release\net5.0\publish\HelloWorld.deps.json
+C:\VSCode\TryDotNet\HelloWorld\bin\Release\net5.0\publish\HelloWorld.runtimeconfig.json
+C:\VSCode\TryDotNet\HelloWorld\bin\Release\net5.0\publish\HelloWorld.pdb
