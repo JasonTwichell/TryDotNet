@@ -4,18 +4,9 @@ namespace HelloWorld
 {  
     class Program
     {
-        static void Main(string region = null,
-            string session = null,
-            string package = null,
-            string project = null,
-            string[] args = null)
+        public static void Main()
         {
-            switch (region)
-            {
-                case "intro":
-                    Intro();
-                    break;               
-            }
+            
         }
     
         public static void Intro()

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "dEP5Uy6/UVpDiPssCXAtHzqLyVVUTMQwMtSLMg8ihG6lOo9ZvVlFHYBJAHxsDKxadPl7vTNowajUPZbKAS1NSw==",
+  "dgSpecHash": "faJ3HZ5/a6jgWPWUclA5sQOR7ZYq+5GZaMJREzRZcTHjwep2cJ6ztgxA4uhccKYbiI/sUQcbIWlPvryCHNaLlA==",
   "success": true,
   "projectFilePath": "C:\\VSCode\\TryDotNet\\HelloWorld\\HelloWorld.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jason\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
   "logs": []
 }
